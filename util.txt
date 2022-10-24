@@ -1,0 +1,33 @@
+https://slides.com/josealmir/deck#/1
+
+Módelo ER -> Módelo de Entidade Relacional
+
+retangulo = entidade
+losango = relacionamento (AÇÃO. Ex: Trabalha, Estuda, Acessa)
+elipse/circulos = atributos da entidade
+
+
+Cardinalidades
+
+um-para-um: 1:1
+
+um-para-muitos: 1:n
+N = multiplos, vários, muitos
+
+muitos-para-muitos: N:N
+
+
+Site para Criar digramas
+
+https://www.diagrams.net/
+https://www.brmodeloweb.com/lang/pt-br/index.html
+http://dia-installer.de/
+https://www.lucidchart.com/pages/pt
+
+
+É nessario tem uma coluna com chaves (id/código) para fazer as devidas
+atualizações (CREAT, READ, UPTADE, DELETE)
+Extrema importancia quando criar uma coluna chave -> um-para-muitos: 1:n
+
+E na tabela de muitos-para-muitos: N:N
+Criar uma coluna de Chaves para relacionar os muitos - Chave ∊ Chave
