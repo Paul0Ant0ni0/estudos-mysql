@@ -31,3 +31,9 @@ Extrema importancia quando criar uma coluna chave -> um-para-muitos: 1:n
 
 E na tabela de muitos-para-muitos: N:N
 Criar uma coluna de Chaves para relacionar os muitos - Chave ∊ Chave
+
+
+1 - Comando 
+
+Ctrl + d -> Copiar a linha
+Ctrl + b -> Formatar o código

@@ -21,6 +21,7 @@ CREATE TABLE departamento(
     salarioMax DECIMAL (10.2) NOT NULL -- DECIMAL (totaldigitos, precisao)
 );
 
-DESC departamento; -- Detalhar a estrtura da Tabela
+DESC departamento; -- Detalhar a estrutura da Tabela
  
 DROP TABLE departamentos; -- Remove a table 
+
